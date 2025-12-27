@@ -2,9 +2,7 @@
 
 **`Ciber Security`**
 
-Me chamo duts00. atualmente estou cursando Formação em Defesa Cibernética na Faculdade Impacta. Tenho alto desenvolvimento em segurança e programação, com foco em ciberdefesa, pentest e segurança ofensiva .
-
-Sou apaixonado por tecnologia e pela área de segurança digital, sempre buscando entender como os sistemas funcionam — e como podem ser protegidos. Em breve, estarei compartilhando meus projetos e estudos na área através do Instagram [duts00](@duts00...) para serguir em minhas redes linkedin [edward duts00](https://www.linkedin.com/in/edward101a30352/) ! 
+i am duts00 ! 
 
 </a> 
     <a href="https://github.com/duts00?tab=repositories&sort=stargazers">
