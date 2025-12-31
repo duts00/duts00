@@ -1,6 +1,6 @@
 # 👩🏻‍💻duts00
 
-**`Ciber Security`**
+**`Cyber Security`**
 
 i am duts00 ! 
 
