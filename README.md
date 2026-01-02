@@ -1,8 +1,7 @@
 # 👩🏻‍💻duts00
 
 **`Cyber Security`**
-
-i am duts00 !
+Cybersecurity-focused. I occasionally publish tools developed for personal research and study, some created to streamline workflows.
 
 </a> 
     <a href="https://github.com/duts00?tab=repositories&sort=stargazers">
