@@ -14,8 +14,8 @@
 ## 👨‍💻 Sobre mim
 
 <p align="center" style="font-size:16px; max-width:650px;">
-Sou estudante de <b>cibersegurança</b>.<br><br>
-Aqui, você poderá ver meus <b>estudos</b> e <b>projetos</b>, criados exclusivamente para fins de aprendizado, pesquisa e prática.
+Sou estudante de <b>cibersegurança</b>.<br>
+Aqui, você poderá ver meus <b>estudos</b> e <b>projetos</b>, criados exclusivamente para fins de aprendizado.
 </p>
 
 ---
