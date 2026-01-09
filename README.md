@@ -1,94 +1,66 @@
-# 👩🏻‍💻duts00
-
-**`i am duts00`**
-
-**Cybersecurity-focused. I occasionally publish tools developed for personal research and study, some created to streamline workflows.**
-
-</a> 
-    <a href="https://github.com/duts00?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/duts00?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/duts00?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/duts00?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a1f44,100:001f3f&text=Hi,%20I'm%20duts00&fontColor=ffffff&desc=Cybersecurity%20Student%20•%20Pentest%20•%20Hardware%20Hacking&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
 </p>
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/duts00?style=for-the-badge&color=001f3f&label=Followers)](https://github.com/duts00?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=duts00&style=for-the-badge&color=001f3f&labelColor=0d1117&label=Profile+Views)
+
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+<h2 align="center" style="color:white;">👨‍💻 Sobre mim</h2>
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+<div align="center">
 
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+<p align="center" style="color:white; font-size:16px; max-width:600px;">
+Sou estudante de <b>cibersegurança</b>.<br><br>
+Aqui, você poderá ver meus <b>estudos</b> e <b>projetos</b>, criados para fins de aprendizado.
+</p>
 
-<img 
-    align="left" 
-    alt="mysql" 
-    title="mysql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
-           
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+</div>
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<br>
-<br>
+<h2 align="center" style="color:white;">💻 Skills</h2>
 
-### 📊 Estatísticas
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=001f3f" alt="Linux">
+  <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=001f3f" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=001f3f" alt="MySQL">
+  <img src="https://img.shields.io/badge/Bash-ffffff?style=for-the-badge&logo=gnu-bash&logoColor=001f3f" alt="Bash">
+  <img src="https://img.shields.io/badge/ShellScript-ffffff?style=for-the-badge&logo=gnu-bash&logoColor=001f3f" alt="Shell Script">
+</div>
 
+---
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=duts00&show_icons=true&theme=tokyonight&include_all_commits=True&locale=pt-br"
-/>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=duts00&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
-/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=duts00&show_icons=true&count_private=true&theme=transparent&title_color=001f3f&icon_color=001f3f&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=duts00&show_icons=true&count_private=true&theme=default">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=duts00&show_icons=true&count_private=true&theme=default" height="200px">
+  </picture>
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=duts00&layout=compact&langs_count=8&theme=transparent&title_color=001f3f&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=duts00&layout=compact&langs_count=8&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=duts00&layout=compact&langs_count=8&theme=default" height="200px">
+  </picture>
+
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duts00&theme=transparent&ring=001f3f&fire=001f3f&currStreakLabel=001f3f" alt="GitHub Streak" height="200px"/>
+</div>
+
+---
+
+<h3 align="center" style="color:white;">
+  🚀 Learning by exploring, testing, and building.
+</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f44,100:001f3f&height=120&section=footer"/>
