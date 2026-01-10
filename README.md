@@ -54,14 +54,6 @@ Aqui, você poderá ver meus <b>estudos</b> e <b>projetos</b>, criados exclusiva
 
 ---
 
-## 🔥 Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duts00&theme=transparent&ring=001f3f&fire=001f3f&currStreakLabel=001f3f" height="200"/>
-</div>
-
----
-
 ## 🕹️ Pacman Contribution Graph
 
 <p align="center">
