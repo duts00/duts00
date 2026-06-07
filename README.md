@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a1f44,100:001f3f&text=Hi,%20I'm%20duts00&fontColor=ffffff&desc=Cybersecurity%20Student%20•%20Pentest%20•%20Hardware%20Hacking&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
-</p>
 
 <div align="center">
 
