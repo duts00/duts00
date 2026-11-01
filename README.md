@@ -1,4 +1,4 @@
-<!-- ============ TOPO: typing a direita ============ --> <div align="right"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&pause=800&color=FCEE09&align=right&width=500&height=60&lines=whats+up+guys!!!" alt="whats up guys"/> </div> <br/> <!-- ============ GIF grande e visivel ============ --> <div align="center"> <img src="banner.gif" width="80%" alt="cyberpunk city"/> </div> <br/> <!-- ============ SOBRE (sem emoji) ============ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=45&pause=1000&color=00F0FF&width=500&height=70&lines=duts...;duts00;day0_" alt="duts"/>
 
 <img src="assets/banner.gif" width="420" align="right" alt="cyberpunk city"/>
 
