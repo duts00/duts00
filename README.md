@@ -13,6 +13,7 @@ Participo de programas de **Bug Bounty** em plataformas como HackerOne, em busca
 Automatizo tarefas e desenvolvo ferramentas com **Bash** e **Python** — projetos disponíveis no GitHub. Atualmente aprendendo **JavaScript** e **C/C++**.
 
 <br clear="right"/>
+
 ### Stack & Ferramentas
 
 <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,java,c,cpp&theme=dark&gap=30" height="60" alt="stack"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/anthropic/D4A27F" height="60" alt="Claude"/>
