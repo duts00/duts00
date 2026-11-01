@@ -18,3 +18,7 @@ Automatizo tarefas e desenvolvo ferramentas com **Bash** e **Python** — projet
 
 <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,java,c,cpp&theme=dark" alt="stack"/>
 <img src="https://cdn.simpleicons.org/anthropic/D4A27F" height="48" alt="Claude"/>
+
+### Links
+
+[![Linktree](https://img.shields.io/badge/all%20my%20social%20media-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/dutszsec)
