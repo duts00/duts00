@@ -2,11 +2,6 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
-
-<img src="assets/banner.gif" width="100%" alt="cyberpunk city"/>
-
-</td>
 <td width="50%" valign="middle">
 
 ## Sobre
@@ -16,6 +11,11 @@ Estudante de **Offensive Security**.
 - Foco em segurança ofensiva: bug bounty, recon e exploração
 - OSINT e automação de ferramentas
 - Red e Blue team — entender o ataque para fortalecer a defesa
+
+</td>
+<td width="50%" align="center">
+
+<img src="assets/banner.gif" width="100%" alt="cyberpunk city"/>
 
 </td>
 </tr>
