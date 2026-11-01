@@ -2,11 +2,10 @@
 <img src="assets/banner.gif" width="420" align="right" alt="cyberpunk city"/>
 
 ## Sobre
-
-Estudante de **Offensive Security**.
-
-- Foco em segurança ofensiva: bug bounty, recon e exploração
-- OSINT e automação de ferramentas
-- Red e Blue team — entender o ataque para fortalecer a defesa
+Cibersegurança & Offensive Security 
+ Pentest · Bug Bounty · OSINT 
+ Ferramentas em Bash/Python 
+ 
+ estudando JS e C/C++
 
 <br clear="right"/>
